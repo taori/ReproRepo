@@ -12,7 +12,7 @@
 }
 
 
-/* REPRO: this is the bug: flipping this on and off works*/
+/* REPRO: this is the bug: flipping this on and off does not work*/
 
 * {
     color: red !important;
